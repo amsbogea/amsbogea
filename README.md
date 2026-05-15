@@ -27,12 +27,25 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amsbogea&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Alex Miranda" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsbogea&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amsbogea&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsbogea&layout=compact&theme=dark" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amsbogea&theme=dark" alt="Streak de commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amsbogea&theme=dark" />
+</p>
+
+---
+
+### 🌐 Vamos conversar?
+<p align="left">
+<a href="https://www.linkedin.com/in/alexmiranda-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.instagram.com/mirandatecnologiaempresarial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=amsbogea&icon=0&color=0" />
 </p>
 
 ---
