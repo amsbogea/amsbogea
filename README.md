@@ -45,7 +45,7 @@
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=amsbogea&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=amsbogea&color=blue&style=flat-square&label=VISITS" alt="amsbogea" />
 </p>
 
 ---
