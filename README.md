@@ -27,12 +27,13 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amsbogea&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsbogea&layout=compact&theme=dark" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amsbogea&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180em" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amsbogea&layout=compact&theme=dark" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amsbogea&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amsbogea&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
